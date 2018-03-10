@@ -1,1 +1,1 @@
-# bioinformatics-support
+# bioinfo
